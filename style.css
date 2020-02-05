@@ -26,3 +26,9 @@ h3 {
 h4, h5, h6 {
     font-size: 1 rem;
 }
+
+.location-map {
+    width: 100%;
+    height: 450px;
+    border:0;
+}
