@@ -1,3 +1,12 @@
 .progress {
     height: 2em;
 }
+
+.parallax {
+    background-image: url("https://images.unsplash.com/photo-1532045427210-bf1cab20499a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1061&q=80");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
