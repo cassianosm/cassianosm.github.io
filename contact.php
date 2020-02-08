@@ -1,7 +1,7 @@
 <?php
 
-$from = 'Site Contact <cassiano.s.moreira@gmail.com>';
-$sendTo = 'Cassiano S. Moreira <cassiano.s.moreira@gmail.com>';
+$from = 'Site Contact <contact@cassianosm.com>';
+$sendTo = 'Cassiano S. Moreira <contact@cassianosm.com>';
 $subject = 'Personal Website Message';
 
 
